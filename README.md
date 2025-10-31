@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26xBukhRbi2XkL8aE/giphy.gif" width="100%" alt="Banner">
+<img src="[https://media.giphy.com/media/26xBukhRbi2XkL8aE/giphy.gif](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)" width="100%" alt="Banner">
 
 <h1 align="center">👋 Merhaba, ben Emir!</h1>
 <h3 align="center">🎮 Unity  | 💻 Python | 🖥️ C# | ⚙️ Arduino </h3>
