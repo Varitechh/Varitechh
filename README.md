@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f320304-d9ce-4a5f-9506-6d200d945263" alt="Coding GIF" width="600">
+  <img src="https://github.com/user-attachments/assets/8f320304-d9ce-4a5f-9506-6d200d945263" 
+       alt="Coding GIF" 
+       width="100%">
 </p>
-
 ---
 
 ### 🧠 Hakkımda
