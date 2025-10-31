@@ -1,4 +1,6 @@
-![alt text](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)
+<p align="center">
+  <img src="https://github.com/Varitechh/Varitechh/blob/main/myprofile.gif" alt="Emir - Software Developer Animation" width="600" />
+</p>
 
 <h1 align="center">👋 Merhaba, ben Emir!</h1>
 <h3 align="center">🎮 Unity  | 💻 Python | 🖥️ C# | ⚙️ Arduino </h3>
