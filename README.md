@@ -1,23 +1,4 @@
-<p align="center">
-  <img
-    alt="Emir - Software & Game Dev Banner"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='1200' height='240'>
-      <rect width='100%25' height='100%25' fill='%230b0b0b'/>
-      <text x='60' y='90' font-size='52' fill='%2300fff0' font-family='Segoe UI, Roboto, Arial' font-weight='700'>
-        👨‍💻%20EMIR%20—%20Game%20Dev%20%26%20Software
-      </text>
-      <text x='60' y='150' font-size='26' fill='%23c0c0ff'>
-        Unity%20·%20C%23%20·%20Python%20·%20Electronics%20·%20Automation
-      </text>
-      <rect x='980' y='40' width='40' height='40' fill='%23ff4d6d' rx='6'/>
-      <rect x='1030' y='40' width='40' height='40' fill='%237b61ff' rx='6'/>
-      <rect x='1080' y='40' width='40' height='40' fill='%2300d4ff' rx='6'/>
-      <text x='1140' y='190' font-size='22' fill='%23888' text-anchor='end'>&lt;/&gt;</text>
-    </svg>"
-    style="max-width:100%;height:auto;"
-  />
-</p>
+![alt text](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)
 
 <h1 align="center">👋 Merhaba, ben Emir!</h1>
 <h3 align="center">🎮 Unity  | 💻 Python | 🖥️ C# | ⚙️ Arduino </h3>
