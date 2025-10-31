@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="[https://github.com/Varitechh/Varitechh/blob/main/myprofile.gif" alt="Emir - Software Developer Animation](https://github.com/Varitechh/Varitechh/blob/main/Coding%20GIF%20-%20Coding%20-%20Discover%20%26%20Share%20GIFs.gif)" width="600" />
-</p>
-
-<h1 align="center">👋 Merhaba, ben Emir!</h1>
-<h3 align="center">🎮 Unity  | 💻 Python | 🖥️ C# | ⚙️ Arduino </h3>
+![Coding GIF - Coding - Discover   Share GIFs](https://github.com/user-attachments/assets/8f320304-d9ce-4a5f-9506-6d200d945263)
 
 ---
 
