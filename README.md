@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/26xBukhRbi2XkL8aE/giphy.gif" width="100%" alt="Banner">
 
 <h1 align="center">👋 Merhaba, ben Emir!</h1>
-<h3 align="center">🎮 Unity 2D Oyun Geliştiricisi | 💻 Python Tutkunu | ⚙️ Elektronik & Otomasyon Meraklısı</h3>
+<h3 align="center">🎮 Unity  | 💻 Python | 🖥️ C# | ⚙️ Arduino </h3>
 
 ---
 
