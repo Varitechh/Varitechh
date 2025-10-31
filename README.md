@@ -39,7 +39,6 @@ Kod yazarken sadece satırlar değil, **oyuncuların hissedeceği bir atmosfer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Unity+Game+Developer;Python;Automation+Lover;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=emirvar&color=00FFFF)
 
 </div>
 
