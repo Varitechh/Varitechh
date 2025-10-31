@@ -7,10 +7,6 @@
 ### 🧠 Hakkımda
 Ben Emir, teknolojiyi sadece kullanan değil **üreten biri** olmayı hedefliyorum.  
 Kod yazarken sadece satırlar değil, **oyuncuların hissedeceği bir atmosfer** yaratmaya çalışıyorum.  
-Distopik şehirlerde geçen, ışıl ışıl “Neon” temalı 2D dünyalar oluşturmayı seviyorum 🌃  
-
-🚀 Şu anda **“Neon Savaşçı”** adını verdiğim bir **top-down shooter** oyun üzerinde çalışıyorum.  
-Her yeni proje benim için bir adım daha ileri: daha temiz kod, daha güçlü yapay zekâ, daha etkileyici bir deneyim.
 
 ---
 
@@ -41,7 +37,7 @@ Her yeni proje benim için bir adım daha ileri: daha temiz kod, daha güçlü y
 ### 🧩 Küçük Ekstralar
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Unity+2D+Game+Developer;Python+Learner;Automation+Lover;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Unity+Game+Developer;Python;Automation+Lover;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=emirvar&color=00FFFF)
 
