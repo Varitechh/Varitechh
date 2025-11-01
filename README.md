@@ -27,8 +27,8 @@ Kod yazarken sadece satırlar değil, **oyuncuların hissedeceği bir atmosfer**
 ### 📈 GitHub İstatistikleri
 <div align="center">
 
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirvar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirvar&layout=compact&theme=tokyonight&hide_border=true)
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varitechh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varitechh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
