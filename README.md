@@ -37,7 +37,7 @@ Kod yazarken sadece satırlar değil, **oyuncuların hissedeceği bir atmosfer**
 ### 🧩 Küçük Ekstralar
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Unity+Game+Developer;Python;Automation+Lover;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Unity+Game+Developer;Python;Arduino;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 
 </div>
