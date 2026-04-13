@@ -1,111 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:0a1628,100:00c8ff&height=200&section=header&text=EMIR&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Game%20Developer%20%7C%20Hardware%20Maker&descAlignY=58&descSize=16&descColor=00c8ff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:0a1628,100:00c8ff&height=200&section=header&text=EMIR&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20AI%20Engineer%20in%20Training%20%7C%20Hardware%20Maker&descAlignY=58&descSize=16&descColor=00c8ff" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=620&lines=AI+Engineering+%E2%80%94+My+Primary+Goal;Unity+Game+Dev+%28Hobby+%26+Passion%29;Python+%7C+C%23+%7C+Arduino+Experience;Never+quit.+The+grind+never+stops." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Python+Engineer;Arduino+Hardware+Maker;AI+%2F+ML+The+Next+Frontier;Never+Give+Up.+Outwork+Everyone.)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/%5B+LINKEDIN+%5D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020810)](https://linkedin.com/in/KULLANICI_ADIN)
-[![GitHub](https://img.shields.io/badge/%5B+GITHUB+%5D-00c8ff?style=for-the-badge&logo=github&logoColor=020810&labelColor=020810)](https://github.com/Varitechh)
-[![Profile Views](https://komarev.com/ghpvc/?username=Varitechh&label=%5B+VIEWS+%5D&color=00c8ff&style=for-the-badge)](https://github.com/Varitechh)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varitechh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Varitechh&label=PROFILE+VIEWS&color=00c8ff&style=for-the-badge)](https://github.com/Varitechh)
 
 </div>
 
-<br>
+---
 
-```javascript
-╔══════════════════════════════════════════════════════════╗
-║              // LOADING DEVELOPER INSTANCE...            ║
-╚══════════════════════════════════════════════════════════╝
+## `// WHO_AM_I.EXE`
 
-const emir = {
-  mainGoal : "Become an AI Engineer — this is my primary direction",
-  hobby    : "Building Unity games — pure passion, always in progress",
-  hardware : "Worked with Arduino — bridged code and the physical world",
-  drive    : "Never quit. Relentless work ethic. Always hungry to learn.",
-  next     : "Android Studio — on the roadmap for later down the road"
-};
+```python
+class Emir:
+    name      = "Emir"
+    passion   = "Building games, tools and intelligent systems"
+    mission   = "Turn complex problems into elegant code"
+    mindset   = "Never give up. Outwork everyone."
+    status    = "Building something new right now..."
 ```
-
-<br>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  ROADMAP.SYS                                             ║
-╠══════════════════════════════════════════════════════════╣
-║  [ PRIMARY  ] 🤖  AI Engineering ............. ACTIVE   ║
-║  [ HOBBY    ] 🎮  Unity Game Dev ............. ONGOING  ║
-║  [ DONE     ] 🔩  Arduino Hardware ........... COMPLETE ║
-║  [ FUTURE   ] 📱  Android Studio ............. PLANNED  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
 
 ---
 
-### `[ TECH.STACK ]`
+## `// TECH.STACK`
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00c8ff)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+**`INCOMING`**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
-<br>
+---
+
+## `// FUTURE.OBJECTIVES`
+
+```
+[ 01 ] AI ENGINEERING
+       Diving deep into machine learning and artificial intelligence.
+       Goal: build intelligent systems that solve real-world problems.
+
+[ 02 ] ANDROID DEVELOPMENT
+       Learning Android Studio to bring ideas to mobile.
+       Building apps that people carry in their pockets.
+
+[ 03 ] GAME DEVELOPMENT
+       Continuing Unity hobby projects.
+       Games are my creative lab — always experimenting.
+```
 
 ---
 
-### `[ GITHUB.STATS ]`
+## `// CORE.TRAITS`
+
+| NEVER QUIT | RELENTLESS DRIVE |
+|---|---|
+| No matter how hard the problem, I debug it until solved. Persistence is my strongest skill. | Always learning, always building. If there is time, there is progress being made. |
+
+| GAME BUILDER | AI CURIOUS |
+|---|---|
+| Built Unity games as a hobby. Each project taught me more than any course could. | Fascinated by intelligent systems. The future belongs to those who build AI, not just use it. |
+
+---
+
+## `// GITHUB.STATS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varitechh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020810&title_color=00c8ff&icon_color=00c8ff&text_color=a0d8ef&border_color=00c8ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varitechh&layout=compact&theme=tokyonight&hide_border=true&bg_color=020810&title_color=00c8ff&text_color=a0d8ef" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varitechh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varitechh&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varitechh&theme=tokyonight&hide_border=true&background=020810&stroke=00c8ff&ring=00c8ff&fire=00c8ff&currStreakNum=ffffff&sideNums=a0d8ef&currStreakLabel=00c8ff&sideLabels=a0d8ef&dates=a0d8ef" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varitechh&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
-
 ---
 
-### `[ CONTRIBUTION.GRID ]`
+## `// CONTRIBUTION.GRID`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varitechh/Varitechh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varitechh/Varitechh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Varitechh/Varitechh/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Varitechh/Varitechh/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-```
-"Writing code is not just entering commands — it's creating a universe."
-```
+`// EOF — Never stop building.`
 
-`// EOF — VARITECHH` &nbsp;&nbsp; `BUILD: PASSING` &nbsp;&nbsp; `© 2025`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:020810&height=100&section=footer" width="100%">
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:020810&height=120&section=footer" width="100%">
