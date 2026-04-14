@@ -1,0 +1,74 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-soft">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-text">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020810"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c8ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00c8ff" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00c8ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="line-fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c8ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00c8ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00c8ff" stroke-width="0.4" stroke-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg-grad)"/>
+  <rect width="900" height="220" fill="url(#grid)"/>
+
+  <!-- Border lines -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#line-grad)" filter="url(#glow-soft)"/>
+  <rect x="0" y="218" width="900" height="1.5" fill="url(#line-grad)" filter="url(#glow-soft)"/>
+
+  <!-- Corner accents -->
+  <polyline points="0,18 0,0 18,0" fill="none" stroke="#00c8ff" stroke-width="2" filter="url(#glow-soft)"/>
+  <polyline points="882,0 900,0 900,18" fill="none" stroke="#00c8ff" stroke-width="2" filter="url(#glow-soft)"/>
+  <polyline points="0,202 0,220 18,220" fill="none" stroke="#00c8ff" stroke-width="2" filter="url(#glow-soft)"/>
+  <polyline points="882,220 900,220 900,202" fill="none" stroke="#00c8ff" stroke-width="2" filter="url(#glow-soft)"/>
+
+  <!-- Section label -->
+  <text x="36" y="34" font-family="monospace" font-size="10" fill="#00c8ff" fill-opacity="0.45" letter-spacing="4">// MODULE_01</text>
+
+  <!-- Title -->
+  <text x="36" y="76" font-family="monospace" font-size="36" font-weight="900" fill="#ffffff" letter-spacing="10" filter="url(#glow-text)">WHO_AM_I.EXE</text>
+  <text x="36" y="76" font-family="monospace" font-size="36" font-weight="900" fill="none" stroke="#00c8ff" stroke-width="0.5" letter-spacing="10" filter="url(#glow-strong)">WHO_AM_I.EXE</text>
+
+  <!-- Divider -->
+  <rect x="36" y="90" width="600" height="1" fill="url(#line-fade)" filter="url(#glow-soft)"/>
+  <circle cx="36" cy="90" r="3" fill="#00c8ff" filter="url(#glow-strong)"/>
+
+  <!-- Code block lines -->
+  <text x="36" y="118" font-family="monospace" font-size="12" fill="#00c8ff" fill-opacity="0.6" letter-spacing="1">class Emir:</text>
+  <text x="36" y="138" font-family="monospace" font-size="12" fill="#4a9abb" letter-spacing="1">    name      <tspan fill="#ffffff" fill-opacity="0.7">=</tspan> <tspan fill="#00ff88" fill-opacity="0.85">"Emir"</tspan></text>
+  <text x="36" y="156" font-family="monospace" font-size="12" fill="#4a9abb" letter-spacing="1">    passion   <tspan fill="#ffffff" fill-opacity="0.7">=</tspan> <tspan fill="#00ff88" fill-opacity="0.85">"Building games, tools and intelligent systems"</tspan></text>
+  <text x="36" y="174" font-family="monospace" font-size="12" fill="#4a9abb" letter-spacing="1">    mission   <tspan fill="#ffffff" fill-opacity="0.7">=</tspan> <tspan fill="#00ff88" fill-opacity="0.85">"Turn complex problems into elegant code"</tspan></text>
+  <text x="36" y="192" font-family="monospace" font-size="12" fill="#4a9abb" letter-spacing="1">    mindset   <tspan fill="#ffffff" fill-opacity="0.7">=</tspan> <tspan fill="#00ff88" fill-opacity="0.85">"Never give up. Outwork everyone."</tspan></text>
+
+  <!-- Status dot -->
+  <circle cx="856" cy="34" r="4" fill="#00ff88" filter="url(#glow-soft)"/>
+  <text x="868" y="38" font-family="monospace" font-size="10" fill="#00ff88" fill-opacity="0.7" letter-spacing="1">ACTIVE</text>
+
+  <!-- Scan line -->
+  <rect x="0" y="0" width="900" height="2" fill="#00c8ff" fill-opacity="0.25">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="0,220" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0;0.35;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
