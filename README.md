@@ -2,7 +2,7 @@
 
 ![header](header.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Python+Engineer;Arduino+Hardware+Maker;AI+%2F+ML+The+Next+Frontier;Never+Give+Up.+Outwork+Everyone.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Python+Engineer;Arduino+Hardware+Maker;AI+%2F+ML+The+Next+Frontier;Never+Give+Up.+Outwork+Everyone.)](https://git.io/typing-svg)
 
 <br>
 
@@ -12,9 +12,13 @@
 
 </div>
 
----
+<br>
 
-## `// WHO_AM_I.EXE`
+```
+╔══════════════════════════════════════════════════════════════╗
+║  // WHO_AM_I.EXE                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ```python
 class Emir:
@@ -22,12 +26,16 @@ class Emir:
     passion   = "Building games, tools and intelligent systems"
     mission   = "Turn complex problems into elegant code"
     mindset   = "Never give up. Outwork everyone."
-    status    = "Building something new right now..."
+    status    = "[ BUILDING SOMETHING NEW RIGHT NOW... ]"
 ```
 
----
+<br>
 
-## `// TECH.STACK`
+```
+╔══════════════════════════════════════════════════════════════╗
+║  // TECH.STACK                                               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
@@ -40,61 +48,85 @@ class Emir:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-**`[ INCOMING ]`**
+<br>
+
+> `[ INCOMING SYSTEMS ]`
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
----
-
-## `// FUTURE.OBJECTIVES`
+<br>
 
 ```
-[ 01 ] AI ENGINEERING
-       Diving deep into machine learning and artificial intelligence.
-       Goal: build intelligent systems that solve real-world problems.
-
-[ 02 ] ANDROID DEVELOPMENT
-       Learning Android Studio to bring ideas to mobile.
-       Building apps that people carry in their pockets.
-
-[ 03 ] GAME DEVELOPMENT
-       Continuing Unity hobby projects.
-       Games are my creative lab — always experimenting.
+╔══════════════════════════════════════════════════════════════╗
+║  // FUTURE.OBJECTIVES                                        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## `// CORE.TRAITS`
-
-| NEVER QUIT | RELENTLESS DRIVE |
-|---|---|
-| No matter how hard the problem, I debug it until solved. Persistence is my strongest skill. | Always learning, always building. If there is time, there is progress being made. |
-
-| GAME BUILDER | AI CURIOUS |
-|---|---|
-| Built Unity games as a hobby. Each project taught me more than any course could. | Fascinated by intelligent systems. The future belongs to those who build AI, not just use it. |
-
----
-
-## `// GITHUB.STATS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varitechh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varitechh&layout=compact&theme=tokyonight&hide_border=true" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [ 01 ] ► AI ENGINEERING                                    │
+│         Diving deep into machine learning & AI.             │
+│         Goal: intelligent systems for real-world problems.  │
+├─────────────────────────────────────────────────────────────┤
+│  [ 02 ] ► ANDROID DEVELOPMENT                               │
+│         Learning Android Studio to bring ideas to mobile.   │
+│         Building apps people carry in their pockets.        │
+├─────────────────────────────────────────────────────────────┤
+│  [ 03 ] ► GAME DEVELOPMENT                                  │
+│         Continuing Unity hobby projects.                    │
+│         Games are my creative lab — always experimenting.   │
+└─────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varitechh&theme=tokyonight&hide_border=true" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║  // CORE.TRAITS                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+| `◈ NEVER QUIT` | `◈ RELENTLESS DRIVE` |
+|:---|:---|
+| No matter how hard the problem — debug until solved. Persistence is the strongest skill. | Always learning, always building. If there is time, there is progress being made. |
+
+| `◈ GAME BUILDER` | `◈ AI CURIOUS` |
+|:---|:---|
+| Built Unity games as a hobby. Each project taught more than any course ever could. | Fascinated by intelligent systems. The future belongs to those who **build** AI, not just use it. |
 
 </div>
 
----
+<br>
 
-## `// CONTRIBUTION.GRID`
+```
+╔══════════════════════════════════════════════════════════════╗
+║  // GITHUB.STATS                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varitechh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=020810&title_color=00c8ff&icon_color=00c8ff&text_color=ffffff&border_color=00c8ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varitechh&layout=compact&theme=tokyonight&hide_border=true&bg_color=020810&title_color=00c8ff&text_color=ffffff" />
+
+<br>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varitechh&theme=tokyonight&hide_border=true&background=020810&stroke=00c8ff&ring=00c8ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00c8ff&sideLabels=00c8ff&dates=4a6a7a" />
+
+</div>
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  // CONTRIBUTION.GRID                                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
@@ -106,7 +138,7 @@ class Emir:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
