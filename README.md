@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,50:0a1628,100:00c8ff&height=200&section=header&text=EMIR&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20AI%20Engineer%20in%20Training%20%7C%20Hardware%20Maker&descAlignY=58&descSize=16&descColor=00c8ff" width="100%">
+![header](header.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Python+Engineer;Arduino+Hardware+Maker;AI+%2F+ML+The+Next+Frontier;Never+Give+Up.+Outwork+Everyone.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Python+Engineer;Arduino+Hardware+Maker;AI+%2F+ML+The+Next+Frontier;Never+Give+Up.+Outwork+Everyone.)](https://git.io/typing-svg)
 
 <br>
 
@@ -40,7 +40,7 @@ class Emir:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-**`INCOMING`**
+**`[ INCOMING ]`**
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -110,8 +110,6 @@ class Emir:
 
 <div align="center">
 
-`// EOF — Never stop building.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:020810&height=100&section=footer" width="100%">
+![footer](footer.svg)
 
 </div>
